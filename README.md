@@ -129,8 +129,8 @@ p.note { display: none; }
 
 
 
-<a href="20250202_001.jpg" target="_blank"><img src="20250202_001.jpg" alt="サンプル画像" width="400" /></a>
-<a href="20250202_002.jpg" target="_blank"><img src="20250202_002.jpg" alt="サンプル画像" width="400" /></a>
+<a href="20250202_001.jpg" target="_blank"><img src="20250202_001.jpg" alt="サンプル画像" width="300" /></a>
+<a href="20250202_002.jpg" target="_blank"><img src="20250202_002.jpg" alt="サンプル画像" width="300" /></a>
     
 
 <a href="20250202_003.jpg" target="_blank"><img src="20250202_003.jpg" alt="サンプル画像" width="900" /></a>

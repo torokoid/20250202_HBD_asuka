@@ -129,8 +129,8 @@ p.note { display: none; }
 
 
 
-<a href="20250202_001.jpg" target="_blank"><img src="20250202_001.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20250202_002.jpg" target="_blank"><img src="20250202_002.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20250202_001.jpg" target="_blank"><img src="20250202_001.jpg" alt="サンプル画像" width="400" /></a>
+<a href="20250202_002.jpg" target="_blank"><img src="20250202_002.jpg" alt="サンプル画像" width="400" /></a>
     
 
 <a href="20250202_003.jpg" target="_blank"><img src="20250202_003.jpg" alt="サンプル画像" width="900" /></a>
@@ -142,8 +142,8 @@ p.note { display: none; }
 <a href="20250202_005.jpg" target="_blank"><img src="20250202_005.jpg" alt="サンプル画像" width="900" /></a>
     
 
-<h2><span class="yellow">Save音声再生</span></h2>
-    <h1>Save音声再生</h1>
+<h1><span class="yellow">Save音声再生</span></h1>
+<!--    <h1>Save音声再生</h1>-->
     <audio controls>
         <source src="save.m4a" type="audio/mp4">
         お使いのブラウザは音声再生をサポートしていません。

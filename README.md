@@ -149,7 +149,8 @@ p.note { display: none; }
         お使いのブラウザは音声再生をサポートしていません。
     </audio>
 
-
+<br><br>
+<a href="hbd_001.png" target="_blank"><img src="hbd_001.png" alt="サンプル画像" width="300" /></a>
 
 <br><br><br>
 
